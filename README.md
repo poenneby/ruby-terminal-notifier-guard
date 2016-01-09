@@ -8,7 +8,7 @@ gem install bundle
 
 bundle
 
-guard
+bundle exec guard
 ```
 
 http://jam.im/blog/2013/02/11/mac-osx-notifications-with-guard/
